@@ -1,0 +1,9 @@
+{
+    "name": "nuxt3-app",
+    "scripts": {
+        "dev": "npx nuxi dev"
+    },
+    "dependencies": {
+        "nuxt3": "^0.10.0-27152406.6c37bad"
+    }
+}
